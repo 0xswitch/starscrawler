@@ -21,5 +21,3 @@ You can also use the `--and` parameter in order to match both keyword, by defaul
 * `-c` to specify the amount of stars you want to crawls (`ceil(amout / 100)`)
 
 * `--flush` to force download README.md again
-
-*

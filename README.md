@@ -8,7 +8,7 @@ searchstars.py -u 0xswitch keywordA keywordB
 
 
 
-![id](/home/switch/projets/starssearcher/example.png)
+![id](example.png)
 
 
 
@@ -22,4 +22,4 @@ You can also use the `--and` parameter in order to match both keyword, by defaul
 
 * `--flush` to force download README.md again
 
-* 
+*

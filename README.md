@@ -1,10 +1,10 @@
-# Searchstars
+# starscrawler
 
 search keywords through github users stars README.md
 
 ## Usage
 
-searchstars.py -u 0xswitch keywordA keywordB
+starscrawler.py -u 0xswitch keywordA keywordB
 
 
 
